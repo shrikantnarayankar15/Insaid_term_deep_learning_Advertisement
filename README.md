@@ -7,6 +7,6 @@ products aired in different countries.
 The data is present in a single csv file:
 advertisement_success.csv - Dataset consisting of approximately 26,048 data samples.
 
-Objective:
+## Objective:
 This dataset is intended for binary classification tasks.
 Use this data set to train a model able to classify whether an ad will be profitable or not.
